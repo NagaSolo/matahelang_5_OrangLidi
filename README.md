@@ -5,3 +5,6 @@
 
 ### Base:
     - 4 modules based on face detection, mesher, hand tracker, pose estimator
+
+### TO DO:
+    - Check openstack for implementation relevancy
